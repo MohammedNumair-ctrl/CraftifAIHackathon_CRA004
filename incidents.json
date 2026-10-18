@@ -1,0 +1,11 @@
+[
+  {
+    "incident_id": 1,
+    "timestamp": 3.09,
+    "recorded_at": "2026-10-18T20:40:53",
+    "event": "person_in_restricted_zone",
+    "track_id": 8,
+    "confidence": 0.432,
+    "zone": "restricted_zone"
+  }
+]
